@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+    <canvas id="myCanvas" width="300" height="250"></canvas>
+
+    <script>
+      
+        var canvas = document.getElementById("myCanvas");
+        var ctx = canvas.getContext("2d");
+
+        var centerX = canvas.width / 2;
+        var centerY = canvas.height / 2; 
+        var radius = 100;
+
+        ctx.fillStyle = "#fe0000";
+
+        ctx.save();
+
+        ctx.scale(1, -1);
+        
+        ctx.translate(0, -canvas.height);
+
+        ctx.beginPath();
+
+        ctx.arc(centerX, centerY, radius, 0, Math.PI, true);
+
+        ctx.closePath();
+
+        ctx.fill();
+
+        ctx.strokeStyle = "#9acd31";
+        ctx.lineWidth = 10; 
+
+        ctx.stroke();
+
+        ctx.restore();
+    </script>
+</body>
+</html>

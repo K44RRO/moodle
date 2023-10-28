@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+    font-size: 15px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+</style>
+</head>
+<body>
+    <h1 class="name"><strong>Name:</strong> Clyde Bustamante</h1>
+    <canvas id="myCanvas" width="300" height="300"></canvas>
+
+    <script>
+        var canvas = document.getElementById("myCanvas");
+        var ctx = canvas.getContext("2d");
+
+        var square1X = 20;
+        var square1Y = 20;
+        var squareSize1 = 200; 
+        var squareSize2 = 200; 
+
+        ctx.fillStyle = "rgba(254, 178, 178, 0.5)";
+        ctx.fillRect(square1X, square1Y, squareSize1, squareSize1);
+
+        var square2X = square1X + 60;
+        var square2Y = square1Y + 60;
+
+        ctx.fillStyle = "rgba(209, 255, 209, 0.5)";
+        ctx.fillRect(square2X, square2Y, squareSize2, squareSize2);
+    </script>
+</body>
+</html>
