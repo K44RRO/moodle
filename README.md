@@ -7,8 +7,9 @@
 ## Course: Creative Web Design 3
 
    * [General](#general)
-      * [Pre-Test]()
+      * [Pre-Test](#general)
    * [CREATE A SIMPLE WEB PAGE](#create-a-simple-web-page)
+      * [SELF-CHECK 1.1-1](#create-a-simple-web-page)
    * [USE ELEMENTS AND ATTRIBUTES](#use-elements-and-attributes)
    * [MARKUP A SIMPLE WEB](#markup-a-simple-web)
    * [ADD LINKS](#add-links)
@@ -25,14 +26,6 @@
    * [Apply page layout with CSS](#apply-page-layout-with-css)
    * [Implement transitions, transforms and animation](#implement-transitions-transforms-and-animations)
    * [Utilize CSS techniques](#utilize-css-techniques)
-
-
-
-
-
-
-
-
 
 
 General
