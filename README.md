@@ -84,16 +84,44 @@ The students/trainees must be provided with the following:
 
 **Assessment Method:**
 
-* Hands-on
-* Self Check
-* Practical demonstration
+ * Hands-on
+ * Self Check
+ * Practical demonstration
 
-
-
-USE ELEMENTS AND ATTRIBUTES
-=====
 MARKUP A SIMPLE WEB PAGE
 =====
+
+**Assessment Criteria**
+
+ * Appropriate element for web contents are chosen
+ * Paragraph and heading styles are utilized
+ * Web contents are organized
+ * Generic elements are applied
+ * Inline elements and special characters are used appropriately
+ * Proper table markup is applied
+
+**Conditions**
+
+The students/trainees must be provided with the following:
+
+ * Computer unit with internet connection
+ * Text editor
+ * CBLM
+ * Task/Job/Operation sheet
+
+**Methodologies:**
+
+ * Self-paced instruction
+ * Demonstration
+ * Group Discussion
+ 
+
+**Assessment Method:**
+
+ * Hands-on
+ * Self Check
+ * Practical demonstration
+
 ADD LINKS
 =====
 ADD IMAGES TO WEB PAGE
