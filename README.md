@@ -1,8 +1,8 @@
 <a href="https://flutter.dev/">
-  <h1 align="center">
+  <h3 align="center">
       <img alt="Flutter" src="https://jasontapar.gnomio.com/pix/moodlelogo.png">
     <p> Course: Creative Web Design 3 </p>
-  </h1>
+  </h3>
 </a>
 
 
