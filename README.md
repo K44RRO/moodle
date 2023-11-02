@@ -133,13 +133,25 @@ The students/trainees must be provided with the following:
 <details>
 <summary>View</summary>
   
-    Question 1 - 3
+    Question 1
 
-  <img src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-3 [HTML Tutorial]/Question 1-3.png">
+  <img src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-3 [HTML Tutorial]/Question 1.png">
+
+    Question 2
+
+  <img src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-3 [HTML Tutorial]/Question 2.png">
+
+    Question 3
+
+  <img src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-3 [HTML Tutorial]/Question 3.png">
 
     Question 4
 
-  <img src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-3 [HTML Tutorial]/Question 4-5.png">
+  <img src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-3 [HTML Tutorial]/Question 4.png">
+
+    Question 5
+
+  <img src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-3 [HTML Tutorial]/Question 5.png">
 
     
       
