@@ -599,7 +599,7 @@ h1 {
 <details>
 <summary>View</summary>
   
-- SVG 1 - STAR
+    SVG 1 - STAR
 
 ```html
 <!DOCTYPE html>
@@ -636,7 +636,7 @@ h1 {
 </html>
 ```
 
-- SVG 2 - SNOWFLEAKS
+    SVG 2 - SNOWFLEAKS
 
 ```html
 <!DOCTYPE html>
@@ -674,7 +674,7 @@ h1 {
 </html>
 ```
 
-- SVG 3 - BEAR
+    SVG 3 - BEAR
 
 ```html
 <!DOCTYPE html>
