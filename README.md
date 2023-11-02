@@ -10,7 +10,7 @@
       * [Pre-Test](#general)
    * [CREATE A SIMPLE WEB PAGE](#create-a-simple-web-page)
    * [USE ELEMENTS AND ATTRIBUTES](#use-elements-and-attributes)
-      * [SELF-CHECK 1.1-1](#self-check-1-1-1)
+      * [SELF-CHECK 1.1-1](#self-check-1.1-1)
       * [SELF-CHECK 1.1-2](#self-check-1-1-2)
       * [SELF-CHECK 1.1-3](#self-check-1-1-3)
       * [Task Sheet 1.1-1](#task-sheet-1-1-1)
