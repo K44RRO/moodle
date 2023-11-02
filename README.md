@@ -22,6 +22,10 @@
   * [SVG Project](#svg-project)
   * [Collaboration II](#collaboration-ii)
 * [MARKUP A SIMPLE WEB](#markup-a-simple-web)
+  * [SELF-CHECK 1.2-1](#self-check-22-1)
+  * [SELF-CHECK 1.2-2](#self-check-22-2)
+  * [SELF-CHECK 1.2-1](#task-sheet-22-1)
+  * [Performance Test](#performance-test)
 * [ADD LINKS](#add-links)
 * [ADD IMAGES TO WEB PAGE](#add-images-to-web-page)
 * [CREATE FORMS](#create-forms)
@@ -826,6 +830,34 @@ The students/trainees must be provided with the following:
  * Hands-on
  * Self Check
  * Practical demonstration
+
+### Self-Check 1.2-1
+
+<details>
+<summary>View</summary>
+- [9Anime](https://9anime.to/)
+</details>
+
+### Self-Check 1.2-2
+
+<details>
+<summary>View</summary>
+- [9Anime](https://9anime.to/)
+</details>
+
+### Task Sheet 1.2-1
+
+<details>
+<summary>View</summary>
+- [9Anime](https://9anime.to/)
+</details>
+
+### Performance Test
+
+<details>
+<summary>View</summary>
+- [9Anime](https://9anime.to/)
+</details>
 
 
 ADD LINKS
