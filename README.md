@@ -145,7 +145,15 @@ The students/trainees must be provided with the following:
 
 <details>
 <summary>View</summary>
-- [9Anime](https://9anime.to/)
+  
+    Enter this URL into your browser. You should see the Jen’s Kitchen web page from Figure 2-3
+
+<img src="USE ELEMENTS AND ATTRIBUTES/Task Sheet 1.1-1/img1.png">
+
+    Select View → Page Source (or View → Source) from the browser menu. On Chrome and Opera, View Source is located in the Developer menu. A window opens showing the source document shown in the figure
+
+<img src="USE ELEMENTS AND ATTRIBUTES/Task Sheet 1.1-1/img2.png">
+
 </details>
 
 ### Self-Check 1.1-5
