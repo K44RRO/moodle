@@ -270,11 +270,12 @@ The students/trainees must be provided with the following:
 </body>
 </html>
 ```
-
 </details>
 
+### Collaboration II
+
 <details>
-<summary>Collaboration II</summary>
+<summary>View</summary>
 - [9Anime](https://9anime.to/)
 </details>
 
