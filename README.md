@@ -124,7 +124,17 @@ The students/trainees must be provided with the following:
 
 <details>
 <summary>View</summary>
-- [9Anime](https://9anime.to/)
+  
+    Question 1 - 3
+
+  <img src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-3 [HTML Tutorial]/Question 1-3.png">
+
+    Question 4
+
+  <img src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-3 [HTML Tutorial]/Question 4-5.png">
+
+    
+      
 </details>
 
 ### Task Sheet 1.1-1
@@ -138,7 +148,12 @@ The students/trainees must be provided with the following:
 
 <details>
 <summary>View</summary>
-- [9Anime](https://9anime.to/)
+
+    Question 1
+
+  <img src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-5 [Application Programming Interface]/Question 1.png">
+    
+
 </details>
 
 ### Self-Check 1.1-2
