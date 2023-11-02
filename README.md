@@ -9,8 +9,18 @@
    * [General](#general)
       * [Pre-Test](#general)
    * [CREATE A SIMPLE WEB PAGE](#create-a-simple-web-page)
-      * [SELF-CHECK 1.1-1](#create-a-simple-web-page)
    * [USE ELEMENTS AND ATTRIBUTES](#use-elements-and-attributes)
+      * [SELF-CHECK 1.1-1](#self-check-1-1-1)
+      * [SELF-CHECK 1.1-2](#self-check-1-1-2)
+      * [SELF-CHECK 1.1-3](#self-check-1-1-3)
+      * [Task Sheet 1.1-1](#task-sheet-1-1-1)
+      * [SELF-CHECK 1.1-5](#self-check-1-1-5)
+      * [SELF-CHECK 1.1-2](#self-check-1-1-5)
+      * [Collaboration I](#collaboration-i)
+      * [Task Sheet 1.1-2](#task-sheet-1-1-2)
+      * [Task Sheet 1.1-3](#task-sheet-1-1-3)
+      * [SVG Project](#svg-project)
+      * [Collaboration II](#collaboration-ii)
    * [MARKUP A SIMPLE WEB](#markup-a-simple-web)
    * [ADD LINKS](#add-links)
    * [ADD IMAGES TO WEB PAGE](#add-images-to-web-page)
@@ -206,7 +216,7 @@ The students/trainees must be provided with the following:
 <!DOCTYPE html>
 <html>
 <head>
-  <title>SVG Example</title>
+  <title>SVG 2 - SNOWFLEAKS</title>
 </head>
 <body>
   <p class="sheesh">Name: <strong>Clyde Bustamante</strong></p>
@@ -244,6 +254,9 @@ The students/trainees must be provided with the following:
 <!DOCTYPE html>
 <html>
 <head>
+<head>
+  <title>SVG 3 - BEAR</title>
+</head>
   <style>
     .gingerbread .body {
       fill: #cd803d;
@@ -268,7 +281,6 @@ The students/trainees must be provided with the following:
   </style>
 </head>
 <body>
-  <p class="sheesh">Name: <strong>Clyde Bustamante</strong></p>
   <svg class="gingerbread" width="200" height="200" viewBox="-100 -100 200 200">
     <circle class="body" cx="0" cy="-50" r="30" />
 
