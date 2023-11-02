@@ -196,6 +196,8 @@ The students/trainees must be provided with the following:
 <details>
 <summary>View</summary>
 
+    resume.htm
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -521,6 +523,8 @@ The students/trainees must be provided with the following:
 <details>
 <summary>View</summary>
 
+    Canvass.htm
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -564,6 +568,8 @@ h1 {
 
 <details>
 <summary>View</summary>
+
+    Canvass2.htm
 
 ```html
 <!DOCTYPE html>
@@ -746,6 +752,8 @@ h1 {
 
 <details>
 <summary>View</summary>
+
+    collab2.html
 
 ```html
 <!DOCTYPE html>
