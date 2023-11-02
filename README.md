@@ -115,6 +115,62 @@ The students/trainees must be provided with the following:
  * Self Check
  * Practical demonstration
 
+<details>
+<summary>Slef-Check 1.1-1</summary>
+- [9Anime](https://9anime.to/)
+</details>
+
+<details>
+<summary>Slef-Check 1.1-2</summary>
+- [9Anime](https://9anime.to/)
+</details>
+
+<details>
+<summary>Slef-Check 1.1-3</summary>
+- [9Anime](https://9anime.to/)
+</details>
+
+<details>
+<summary>Task Sheet 1.1-1</summary>
+- [9Anime](https://9anime.to/)
+</details>
+
+<details>
+<summary>Slef-Check 1.1-5</summary>
+- [9Anime](https://9anime.to/)
+</details>
+
+<details>
+<summary>Slef-Check 1.1-2</summary>
+- [9Anime](https://9anime.to/)
+</details>
+
+<details>
+<summary>Collaboration I</summary>
+- [9Anime](https://9anime.to/)
+</details>
+
+<details>
+<summary>Task Sheet 1.1-2</summary>
+- [9Anime](https://9anime.to/)
+</details>
+
+<details>
+<summary>Task Sheet 1.1-3</summary>
+- [9Anime](https://9anime.to/)
+</details>
+
+<details>
+<summary>SVG Project</summary>
+- [9Anime](https://9anime.to/)
+</details>
+
+<details>
+<summary>Collaboration II</summary>
+- [9Anime](https://9anime.to/)
+</details>
+
+
 ADD LINKS
 =====
 ADD IMAGES TO WEB PAGE
