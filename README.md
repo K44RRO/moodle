@@ -842,14 +842,120 @@ The students/trainees must be provided with the following:
 
 <details>
 <summary>View</summary>
-- [9Anime](https://9anime.to/)
+
+    Question 1
+
+    Question 2
+
+    Question 3
+
 </details>
 
 ### Task Sheet 1.2-1
 
 <details>
 <summary>View</summary>
-- [9Anime](https://9anime.to/)
+  
+    list.html
+  
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: transparent;
+            display: flex;
+            justify-content: center;
+            align-items: top;
+            margin: 0;
+        }
+
+        .wrap {
+            padding: 10px 10px;
+            width: 18%;
+            background-color: white;
+            text-align: left;
+            text-align: justify;
+
+        }
+
+        .hayst {
+            margin-left: 25px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrap">
+        <h2>Ordered lists</h2>
+        <p>Ordered lists are for items that occur in a particular order, such as step-by-step instructions or driving
+            directions. They work just like the unordered lists described earlier, except they are defined with the ol
+            element (for ordered list, of course). Instead of bullets, the browser automatically inserts numbers before
+            ordered list items, so you don't need to number them in the source document. This makes it easy to rearrange
+            list items without renumbering them. For example, <br><br> After reading this INFORMATION, YOU MSUT be able
+            to:</p>
+        <ol>
+            <li>Demonstrate entering contents</li>
+            <li>Identify the steps of marking up a simple web page</li>
+            <li>Use text editors to format the 1-3 ordered list</li>
+        </ol>
+        <h2>Description lists</h2>
+        <p>Description lists are used for any type of name / value pairs, such as terms and their definitions, questions
+            and answeres, or other types of terms and their associated information. Their structure is a bit different
+            from the other two lists that we just discussed. The whole description list is marked up as a
+            <strong>dl</strong> element. The content of a <strong>dl</strong> is some number of <strong>dt</strong>
+            elements indicating the names and <strong>dd</strong> elements for their respective values. I find it
+            helpful to think of them as "terms" (to remember the "t" in <strong>dt</strong>) and "definitions (for the
+            "d" in <strong>dd</strong>), even though that is only one use of description lists in HTML5. For example:
+        </p>
+        <a href="">beginPath()</a>
+        <p class="hayst">Creates a new path. Once created, future drawing commands are directed into the path and used to build the path up.</p>
+        <a href="">Path methods()</a>
+        <p class="hayst">Methods to set different paths for objects</p>
+        <a href="">closePath()</a>
+        <p class="hayst">Adds a straight line to the path, going to the current sub-path.</p>
+        <h2>Lists</h2>
+        <p>  Humans are natural list makers, and HTML provides elements for marking up three types of lists:</p>
+        <ol>
+            <li>Unordered lists. Collections of items that appear in no particular order.</li>
+            <li>Ordered lists. Lists in which the sequence of the items is important.</li>
+            <li>Description lists. Lists that consist of name and value pairs, including but not limited to terms and definitions.</li>
+        </ol>
+        <h2>Unordered Lists</h2>
+        <p>
+            Identify an unordered list, mark it up as a ul element. The opening &lt;ul&gt; tag goes before the first
+            list item, and the closing tag &lt;/ul&gt; goes after the last item. Then, each item in the list gets marked
+            up as a list item (li) by enclosing it in opening and closing &lt;li&gt; tags, as shown in this example.
+            Notice that there are no bullets in the source document. They are added automatically by the browser. For
+            example:
+        </p>
+
+
+        <ul style="list-style-type: disc;">
+            <li>Fruits</li>
+            <ul style="list-style-type: disc;">
+                <li>Mango</li>
+                <li>Apple</li>
+                <li>Pineapple</li>
+            </ul>
+            <li>Vegetables</li>
+            <ul style="list-style-type: disc;">
+                <li>Cabbage</li>
+                <li>Lettuce</li>
+                <li>Carrot</li>
+            </ul>
+        </ul>
+    </div>
+</body>
+
+</html>
+```
+
 </details>
 
 ### Performance Test
