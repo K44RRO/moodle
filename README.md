@@ -835,7 +835,11 @@ The students/trainees must be provided with the following:
 
 <details>
 <summary>View</summary>
-- [9Anime](https://9anime.to/)
+
+    Question 1
+  
+<img src="MARKUP A SIMPLE WEB/Self-Check 1.2-1/Question 1.png">
+
 </details>
 
 ### Self-Check 1.2-2
@@ -845,9 +849,15 @@ The students/trainees must be provided with the following:
 
     Question 1
 
+<img src="MARKUP A SIMPLE WEB/Self-Check 1.2-2/Question 1.png">
+
     Question 2
 
+<img src="MARKUP A SIMPLE WEB/Self-Check 1.2-2/Question 2.png">
+
     Question 3
+
+<img src="MARKUP A SIMPLE WEB/Self-Check 1.2-2/Question 3.png">
 
 </details>
 
