@@ -140,8 +140,10 @@ The students/trainees must be provided with the following:
 - [9Anime](https://9anime.to/)
 </details>
 
+### SVG Project
+
 <details>
-<summary>SVG Project</summary>
+<summary>View</summary>
   
 - SVG 1 - STAR
 
