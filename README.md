@@ -130,7 +130,15 @@ The students/trainees must be provided with the following:
 
 <details>
 <summary>View</summary>
-- [9Anime](https://9anime.to/)
+  
+  - Question 1
+
+ <img alt="Question 1" src="https://64.media.tumblr.com/6e5eb6c9c68ce926ab34ef0687e91d51/2bb05199cb25d338-8b/s400x600/0c224f7ff2ff83e970e24cf5d8a9545c71e77770.pnj">
+
+    
+  - Question 2
+    
+  - Question 3
 </details>
 
 ### Collaboration I
