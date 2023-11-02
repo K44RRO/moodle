@@ -176,12 +176,16 @@ The students/trainees must be provided with the following:
   
     Question 1
 
- <img alt="Question 1" src="https://64.media.tumblr.com/6e5eb6c9c68ce926ab34ef0687e91d51/2bb05199cb25d338-8b/s400x600/0c224f7ff2ff83e970e24cf5d8a9545c71e77770.pnj">
+ <img alt="Question 1" src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-2 [Information Sheet]/Question 1.png">
 
-    
-  - Question 2
-    
-  - Question 3
+    Question 2
+
+ <img src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-2 [Information Sheet]/Question 2.png">
+
+    Question 3
+
+ <img src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-2 [Information Sheet]/Question 3.png">
+     
 </details>
 
 ### Collaboration I
