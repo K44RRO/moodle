@@ -81,7 +81,7 @@ The students/trainees must be provided with the following:
  * Self Check
  * Practical demonstration
 
-MARKUP A SIMPLE WEB PAGE
+MARKUP A SIMPLE WEB
 =====
 
 **Assessment Criteria**
