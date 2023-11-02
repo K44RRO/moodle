@@ -122,6 +122,7 @@ The students/trainees must be provided with the following:
     Question 3
     
   <img src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-2 [Information Sheet]/Question 3.png">
+  
 </details>
 
 ### Self-Check 1.1-3
