@@ -6,36 +6,36 @@
 
 ## Course: Creative Web Design 3
 
-   * [General](#general)
-      * [Pre-Test](#general)
-   * [CREATE A SIMPLE WEB PAGE](#create-a-simple-web-page)
-   * [USE ELEMENTS AND ATTRIBUTES](#use-elements-and-attributes)
-      * [SELF-CHECK 1.1-1](#self-check-1.1-1)
-      * [SELF-CHECK 1.1-2](#self-check-1-1-2)
-      * [SELF-CHECK 1.1-3](#self-check-1-1-3)
-      * [Task Sheet 1.1-1](#task-sheet-1-1-1)
-      * [SELF-CHECK 1.1-5](#self-check-1-1-5)
-      * [SELF-CHECK 1.1-2](#self-check-1-1-5)
-      * [Collaboration I](#collaboration-i)
-      * [Task Sheet 1.1-2](#task-sheet-1-1-2)
-      * [Task Sheet 1.1-3](#task-sheet-1-1-3)
-      * [SVG Project](#svg-project)
-      * [Collaboration II](#collaboration-ii)
-   * [MARKUP A SIMPLE WEB](#markup-a-simple-web)
-   * [ADD LINKS](#add-links)
-   * [ADD IMAGES TO WEB PAGE](#add-images-to-web-page)
-   * [CREATE FORMS](#create-forms)
-   * [USE CASCADING STYLE SHEET](#use-casecading-style-sheet)
-   * [Create document structures](#create-document-structures)
-   * [Format Text](#format-text)
-   * [Apply colors and backgrounds](#apply-colors-and-backgrounds)
-   * [Apply padding, borders and margin](#apply-padding-borders-and-margin)
-   * [Implement floating element](#implement-floating-element)
-   * [Apply positioning effectively](#apply-positioning-effectively)
-   * [APPLY CASCADING STYLE SHEET TECHNIQUES](#apply-cascading-style-sheet-techniques)
-   * [Apply page layout with CSS](#apply-page-layout-with-css)
-   * [Implement transitions, transforms and animation](#implement-transitions-transforms-and-animations)
-   * [Utilize CSS techniques](#utilize-css-techniques)
+* [General](#general)
+  * [Pre-Test](#pre-test)
+* [CREATE A SIMPLE WEB PAGE](#create-a-simple-web-page)
+* [USE ELEMENTS AND ATTRIBUTES](#use-elements-and-attributes)
+  * [SELF-CHECK 1.1-1](#self-check-11-1)
+  * [SELF-CHECK 1.1-2](#self-check-11-2)
+  * [SELF-CHECK 1.1-3](#self-check-11-3)
+  * [Task Sheet 1.1-1](#task-sheet-11-1)
+  * [SELF-CHECK 1.1-5](#self-check-11-5)
+  * [SELF-CHECK 1.1-2](#self-check-11-2)
+  * [Collaboration I](#collaboration-i)
+  * [Task Sheet 1.1-2](#task-sheet-11-2)
+  * [Task Sheet 1.1-3](#task-sheet-11-3)
+  * [SVG Project](#svg-project)
+  * [Collaboration II](#collaboration-ii)
+* [MARKUP A SIMPLE WEB](#markup-a-simple-web)
+* [ADD LINKS](#add-links)
+* [ADD IMAGES TO WEB PAGE](#add-images-to-web-page)
+* [CREATE FORMS](#create-forms)
+* [USE CASCADING STYLE SHEET](#use-casecading-style-sheet)
+* [Create document structures](#create-document-structures)
+* [Format Text](#format-text)
+* [Apply colors and backgrounds](#apply-colors-and-backgrounds)
+* [Apply padding, borders, and margin](#apply-padding-borders-and-margin)
+* [Implement floating element](#implement-floating-element)
+* [Apply positioning effectively](#apply-positioning-effectively)
+* [APPLY CASCADING STYLE SHEET TECHNIQUES](#apply-cascading-style-sheet-techniques)
+* [Apply page layout with CSS](#apply-page-layout-with-css)
+* [Implement transitions, transforms, and animation](#implement-transitions-transforms-and-animations)
+* [Utilize CSS techniques](#utilize-css-techniques)
 
 
 General
@@ -343,157 +343,4 @@ Implement transitions, transforms and animation
 Utilize CSS techniques
 =====
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* [General](#general)
-  * [Pre-Test](#pre-test)
-* [CREATE A SIMPLE WEB PAGE](#create-a-simple-web-page)
-* [USE ELEMENTS AND ATTRIBUTES](#use-elements-and-attributes)
-  * [SELF-CHECK 1.1-1](#self-check-11-1)
-  * [SELF-CHECK 1.1-2](#self-check-11-2)
-  * [SELF-CHECK 1.1-3](#self-check-11-3)
-  * [Task Sheet 1.1-1](#task-sheet-11-1)
-  * [SELF-CHECK 1.1-5](#self-check-11-5)
-  * [SELF-CHECK 1.1-2](#self-check-11-2)
-  * [Collaboration I](#collaboration-i)
-  * [Task Sheet 1.1-2](#task-sheet-11-2)
-  * [Task Sheet 1.1-3](#task-sheet-11-3)
-  * [SVG Project](#svg-project)
-  * [Collaboration II](#collaboration-ii)
-* [MARKUP A SIMPLE WEB](#markup-a-simple-web)
-* [ADD LINKS](#add-links)
-* [ADD IMAGES TO WEB PAGE](#add-images-to-web-page)
-* [CREATE FORMS](#create-forms)
-* [USE CASCADING STYLE SHEET](#use-casecading-style-sheet)
-* [Create document structures](#create-document-structures)
-* [Format Text](#format-text)
-* [Apply colors and backgrounds](#apply-colors-and-backgrounds)
-* [Apply padding, borders, and margin](#apply-padding-borders-and-margin)
-* [Implement floating element](#implement-floating-element)
-* [Apply positioning effectively](#apply-positioning-effectively)
-* [APPLY CASCADING STYLE SHEET TECHNIQUES](#apply-cascading-style-sheet-techniques)
-* [Apply page layout with CSS](#apply-page-layout-with-css)
-* [Implement transitions, transforms, and animation](#implement-transitions-transforms-and-animations)
-* [Utilize CSS techniques](#utilize-css-techniques)
-
-<!-- Content -->
-## General
-- This is the general section of the document.
-
-### Pre-Test
-- This is the pre-test section.
-
-## CREATE A SIMPLE WEB PAGE
-- This section is about creating a simple web page.
-
-## USE ELEMENTS AND ATTRIBUTES
-- This section covers the use of HTML elements and attributes.
-
-### SELF-CHECK 1.1-1
-- Self-check for Section 1.1-1.
-
-### SELF-CHECK 1.1-2
-- Self-check for Section 1.1-2.
-
-### SELF-CHECK 1.1-3
-- Self-check for Section 1.1-3.
-
-### Task Sheet 1.1-1
-- Task sheet for Section 1.1-1.
-
-### SELF-CHECK 1.1-5
-- Self-check for Section 1.1-5.
-
-### SELF-CHECK 1.1-2
-- Another self-check for Section 1.1-2.
-
-### Collaboration I
-- Information about Collaboration I.
-
-### Task Sheet 1.1-2
-- Task sheet for Section 1.1-2.
-
-### Task Sheet 1.1-3
-- Task sheet for Section 1.1-3.
-
-### SVG Project
-- Details about the SVG project.
-
-### Collaboration II
-- Information about Collaboration II.
-
-## MARKUP A SIMPLE WEB
-- This section is about marking up a simple web page.
-
-## ADD LINKS
-- This section covers adding links to a web page.
-
-## ADD IMAGES TO WEB PAGE
-- Information on adding images to a web page.
-
-## CREATE FORMS
-- How to create forms in a web page.
-
-## USE CASCADING STYLE SHEET
-- Information about using CSS.
-
-## Create document structures
-- Details about creating document structures.
-
-## Format Text
-- How to format text in HTML.
-
-## Apply colors and backgrounds
-- Applying colors and backgrounds to elements.
-
-## Apply padding, borders, and margin
-- Information about padding, borders, and margins.
-
-## Implement floating element
-- How to implement floating elements in CSS.
-
-## Apply positioning effectively
-- Information on positioning elements effectively.
-
-## APPLY CASCADING STYLE SHEET TECHNIQUES
-- Applying CSS techniques.
-
-## Apply page layout with CSS
-- Creating page layouts with CSS.
-
-## Implement transitions, transforms, and animation
-- How to implement transitions, transforms, and animations in CSS.
-
-## Utilize CSS techniques
-- Information on utilizing CSS techniques.
 
