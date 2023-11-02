@@ -1,10 +1,13 @@
 <a href="https://flutter.dev/">
-  <h1 align="center">
+  <h3 align="center">
       <img alt="Flutter" src="https://jasontapar.gnomio.com/pix/moodlelogo.png">
-  </h1>
+    <p> Course: Creative Web Design 3 </p>
+  </h3>
 </a>
 
-## Course: Creative Web Design 3
+
+
+<h1> Table of Contents </h1>
 
 * [General](#general)
   * [Pre-Test](#pre-test)
@@ -122,6 +125,7 @@ The students/trainees must be provided with the following:
     Question 3
     
   <img src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-2 [Information Sheet]/Question 3.png">
+  
 </details>
 
 ### Self-Check 1.1-3
@@ -145,7 +149,15 @@ The students/trainees must be provided with the following:
 
 <details>
 <summary>View</summary>
-- [9Anime](https://9anime.to/)
+  
+    Enter this URL into your browser. You should see the Jen’s Kitchen web page from Figure 2-3
+
+<img src="USE ELEMENTS AND ATTRIBUTES/Task Sheet 1.1-1/img1.png">
+
+    Select View → Page Source (or View → Source) from the browser menu. On Chrome and Opera, View Source is located in the Developer menu. A window opens showing the source document shown in the figure
+
+<img src="USE ELEMENTS AND ATTRIBUTES/Task Sheet 1.1-1/img2.png">
+
 </details>
 
 ### Self-Check 1.1-5
@@ -167,18 +179,24 @@ The students/trainees must be provided with the following:
   
     Question 1
 
- <img alt="Question 1" src="https://64.media.tumblr.com/6e5eb6c9c68ce926ab34ef0687e91d51/2bb05199cb25d338-8b/s400x600/0c224f7ff2ff83e970e24cf5d8a9545c71e77770.pnj">
+ <img alt="Question 1" src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-2 [Information Sheet]/Question 1.png">
 
-    
-  - Question 2
-    
-  - Question 3
+    Question 2
+
+ <img src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-2 [Information Sheet]/Question 2.png">
+
+    Question 3
+
+ <img src="USE ELEMENTS AND ATTRIBUTES/Self-Check 1.1-2 [Information Sheet]/Question 3.png">
+     
 </details>
 
 ### Collaboration I
 
 <details>
 <summary>View</summary>
+
+    resume.htm
 
 ```html
 <!DOCTYPE html>
@@ -505,6 +523,8 @@ The students/trainees must be provided with the following:
 <details>
 <summary>View</summary>
 
+    Canvass.htm
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -548,6 +568,8 @@ h1 {
 
 <details>
 <summary>View</summary>
+
+    Canvass2.htm
 
 ```html
 <!DOCTYPE html>
@@ -599,7 +621,7 @@ h1 {
 <details>
 <summary>View</summary>
   
-- SVG 1 - STAR
+    SVG 1 - STAR
 
 ```html
 <!DOCTYPE html>
@@ -636,7 +658,7 @@ h1 {
 </html>
 ```
 
-- SVG 2 - SNOWFLEAKS
+    SVG 2 - SNOWFLEAKS
 
 ```html
 <!DOCTYPE html>
@@ -674,7 +696,7 @@ h1 {
 </html>
 ```
 
-- SVG 3 - BEAR
+    SVG 3 - BEAR
 
 ```html
 <!DOCTYPE html>
@@ -730,6 +752,8 @@ h1 {
 
 <details>
 <summary>View</summary>
+
+    collab2.html
 
 ```html
 <!DOCTYPE html>
@@ -835,7 +859,11 @@ The students/trainees must be provided with the following:
 
 <details>
 <summary>View</summary>
-- [9Anime](https://9anime.to/)
+
+    Question 1
+  
+<img src="MARKUP A SIMPLE WEB/Self-Check 1.2-1/Question 1.png">
+
 </details>
 
 ### Self-Check 1.2-2
@@ -845,9 +873,15 @@ The students/trainees must be provided with the following:
 
     Question 1
 
+<img src="MARKUP A SIMPLE WEB/Self-Check 1.2-2/Question 1.png">
+
     Question 2
 
+<img src="MARKUP A SIMPLE WEB/Self-Check 1.2-2/Question 2.png">
+
     Question 3
+
+<img src="MARKUP A SIMPLE WEB/Self-Check 1.2-2/Question 3.png">
 
 </details>
 
