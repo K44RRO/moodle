@@ -105,38 +105,52 @@ The students/trainees must be provided with the following:
 - [9Anime](https://9anime.to/)
 </details>
 
+### Self-Check 1.1-3
+
 <details>
-<summary>Slef-Check 1.1-3</summary>
+<summary>View</summary>
 - [9Anime](https://9anime.to/)
 </details>
 
+### Task Sheet 1.1-1
+
 <details>
-<summary>Task Sheet 1.1-1</summary>
+<summary>View</summary>
 - [9Anime](https://9anime.to/)
 </details>
 
+### Self-Check 1.1-5
+
 <details>
-<summary>Slef-Check 1.1-5</summary>
+<summary>View</summary>
 - [9Anime](https://9anime.to/)
 </details>
 
+### Self-Check 1.1-2
+
 <details>
-<summary>Slef-Check 1.1-2</summary>
+<summary>View</summary>
 - [9Anime](https://9anime.to/)
 </details>
 
+### Collaboration I
+
 <details>
-<summary>Collaboration I</summary>
+<summary>View</summary>
 - [9Anime](https://9anime.to/)
 </details>
 
+### Task Sheet 1.1-2
+
 <details>
-<summary>Task Sheet 1.1-2</summary>
+<summary>View</summary>
 - [9Anime](https://9anime.to/)
 </details>
 
+### Task Sheet 1.1-3
+
 <details>
-<summary>Task Sheet 1.1-3</summary>
+<summary>View</summary>
 - [9Anime](https://9anime.to/)
 </details>
 
