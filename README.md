@@ -91,13 +91,17 @@ The students/trainees must be provided with the following:
  * Self Check
  * Practical demonstration
 
+### Self-Check 1.1-1
+
 <details>
-<summary>Slef-Check 1.1-1</summary>
+<summary>View</summary>
 - [9Anime](https://9anime.to/)
 </details>
 
+### Self-Check 1.1-2
+
 <details>
-<summary>Slef-Check 1.1-2</summary>
+<summary>View</summary>
 - [9Anime](https://9anime.to/)
 </details>
 
