@@ -91,40 +91,6 @@ The students/trainees must be provided with the following:
  * Self Check
  * Practical demonstration
 
-MARKUP A SIMPLE WEB
-=====
-
-**Assessment Criteria**
-
- * Appropriate element for web contents are chosen
- * Paragraph and heading styles are utilized
- * Web contents are organized
- * Generic elements are applied
- * Inline elements and special characters are used appropriately
- * Proper table markup is applied
-
-**Conditions**
-
-The students/trainees must be provided with the following:
-
- * Computer unit with internet connection
- * Text editor
- * CBLM
- * Task/Job/Operation sheet
-
-**Methodologies:**
-
- * Self-paced instruction
- * Demonstration
- * Group Discussion
- 
-
-**Assessment Method:**
-
- * Hands-on
- * Self Check
- * Practical demonstration
-
 <details>
 <summary>Slef-Check 1.1-1</summary>
 - [9Anime](https://9anime.to/)
@@ -305,6 +271,41 @@ The students/trainees must be provided with the following:
 <summary>Collaboration II</summary>
 - [9Anime](https://9anime.to/)
 </details>
+
+MARKUP A SIMPLE WEB
+=====
+
+**Assessment Criteria**
+
+ * Appropriate element for web contents are chosen
+ * Paragraph and heading styles are utilized
+ * Web contents are organized
+ * Generic elements are applied
+ * Inline elements and special characters are used appropriately
+ * Proper table markup is applied
+
+**Conditions**
+
+The students/trainees must be provided with the following:
+
+ * Computer unit with internet connection
+ * Text editor
+ * CBLM
+ * Task/Job/Operation sheet
+
+**Methodologies:**
+
+ * Self-paced instruction
+ * Demonstration
+ * Group Discussion
+ 
+
+**Assessment Method:**
+
+ * Hands-on
+ * Self Check
+ * Practical demonstration
+
 
 ADD LINKS
 =====
