@@ -962,7 +962,9 @@ The students/trainees must be provided with the following:
 
 <details>
 <summary>View</summary>
-- [9Anime](https://9anime.to/)
+  
+    Collaboration with your Group is the Key
+      
 </details>
 
 
