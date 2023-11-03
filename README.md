@@ -30,8 +30,9 @@
   * [SELF-CHECK 1.2-1](#task-sheet-22-1)
   * [Performance Test](#performance-test)
 * [ADD LINKS](#add-links)
-  * [SELF-CHECK 1.3-1](#self-check-1-3-1)
-* [~~ADD IMAGES TO WEB PAGE~~](#add-images-to-web-page)
+  * [SELF-CHECK 1.3-1](#self-check-1-33-1)
+* [ADD IMAGES TO WEB PAGE](#add-images-to-web-page)
+  * [SELF-CHECK 1.4-1](#self-check-1-44-1)
 * [~~CREATE FORMS~~](#create-forms)
 * [~~USE CASCADING STYLE SHEET~~](#use-casecading-style-sheet)
 * [~~Create document structures~~](#create-document-structures)
@@ -1032,6 +1033,45 @@ ADD LINKS
 
 ADD IMAGES TO WEB PAGE
 =====
+
+### Self-Check 1.4-1
+
+<details>
+<summary>View</summary>
+  
+    Question 1
+
+ <img alt="Question 1" src="ADD IMAGES TO WEB PAGE/Self-Check 1.4-1/Question 1.png">
+
+    Question 2
+
+ <img alt="Question 2" src="ADD IMAGES TO WEB PAGE/Self-Check 1.4-1/Question 2.png">
+
+    Question 3
+
+ <img alt="Question 3" src="ADD IMAGES TO WEB PAGE/Self-Check 1.4-1/Question 3.png">
+ 
+</details>
+
+### Self-Check 1.4-2
+
+<details>
+<summary>View</summary>
+  
+    Question 1
+
+ <img alt="Question 1" src="ADD IMAGES TO WEB PAGE/Self-Check 1.4-2/Question 1.png">
+
+    Question 2
+
+ <img alt="Question 2" src="ADD IMAGES TO WEB PAGE/Self-Check 1.4-2/Question 2.png">
+
+    Question 3
+
+ <img alt="Question 3" src="ADD IMAGES TO WEB PAGE/Self-Check 1.4-2/Question 1.png">
+     
+</details>
+
 CREATE FORMS
 =====
 USE CASCADING STYLE SHEETS
