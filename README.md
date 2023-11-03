@@ -1017,5 +1017,12 @@ h1 {
 
 ## Utilize CSS techniques
 
+## **Thanks For Visiting**
+
+<img src="./src/assets/logo2.png" width=130 align=right>
+
+Hope you liked it. Want to help?
+
+- **[Star This Repository](https://github.com/akionii/Miruro)**
 
 
