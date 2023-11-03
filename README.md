@@ -55,51 +55,8 @@ General
 CREATE A SIMPLE WEB PAGE
 =====
 
-This unit covers the knowledge, skills and attitudes required to create a web page step by step and get a feel for what it’s like to mark up a document with HTML tags.
-
-NOMINAL DURATION: 32 hours
-
-
-Upon completion of this module, the trainee/student must be able to:
-
-  * Use elements and attributes
-  * Mark up a simple web page
-  * Add links
-  * Add images to web page
-  * Create forms
-
-
 USE ELEMENTS AND ATTRIBUTES
 =====
-
-**Assessment Criteria**
-
-  * Text editor is located, launched and utilized
-  * Web page contents are identified and encoded into the text editor
-  * Web page is correctly save using proper name convention<br>
-  * Element and attributes are identified and used<br>
-  * Web page is created according to requirements
-
-**Conditions**
-
-The students/trainees must be provided with the following:
-
- * Computer unit with internet connection
- * Text editor
- * CBLM
- * Task/Job/Operation sheet
-
-**Methodologies:**
-
- * Self-paced instruction
- * Demonstration
- * Group Discussion
-
-**Assessment Method:**
-
- * Hands-on
- * Self Check
- * Practical demonstration
 
 ### Self-Check 1.1-1
 
@@ -839,37 +796,6 @@ h1 {
 MARKUP A SIMPLE WEB
 =====
 
-**Assessment Criteria**
-
- * Appropriate element for web contents are chosen
- * Paragraph and heading styles are utilized
- * Web contents are organized
- * Generic elements are applied
- * Inline elements and special characters are used appropriately
- * Proper table markup is applied
-
-**Conditions**
-
-The students/trainees must be provided with the following:
-
- * Computer unit with internet connection
- * Text editor
- * CBLM
- * Task/Job/Operation sheet
-
-**Methodologies:**
-
- * Self-paced instruction
- * Demonstration
- * Group Discussion
- 
-
-**Assessment Method:**
-
- * Hands-on
- * Self Check
- * Practical demonstration
-
 ### Self-Check 1.2-1
 
 <details>
@@ -1020,36 +946,6 @@ The students/trainees must be provided with the following:
 ADD LINKS
 =====
 
-**Assessment Criteria**
-
-  * Link between pages is established 
-  * Relative links are made
-  * “Mail to” and “Tel” links are applied
-  * Target a new browser window
-
-**Conditions**
-
-The students/trainees must be provided with the following:
-
-  * Computer unit with internet connection
-  * Text editor
-  * CBLM
-  * Task/Job/Operation sheet
-
-**Methodologies:**
-
-  * Self-paced instruction
-  * Demonstration
-  * Group Discussion
- 
- **Assessment Method:**
-
-  * Hands-on
-  * Self Check
-  * Practical demonstration
-
-
-
 
 ### Self-Check 1.3-1
 
@@ -1062,37 +958,8 @@ The students/trainees must be provided with the following:
      
 </details>
 
-
 ADD IMAGES TO WEB PAGE
 =====
-
-**Assessment Criteria**
-
- * Utilize appropriate image attributes
- * Images are added to web page
- * Use appropriate image format for web page
- * Select appropriate image size and resolution for web page
-
-**Conditions**
-
-The students/trainees must be provided with the following:
-
- * Computer unit with internet connection
- * Text editor
- * CBLM
- * Task/Job/Operation sheet
-
-**Methodologies:**
-
- * Self-paced instruction
- * Demonstration
- * Group Discussion
-
-**Assessment Method:**
-
-* Hands-on
-* Self Check
-* Practical demonstration
 
 ### Self-Check 1.4-1
 
