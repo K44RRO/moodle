@@ -1017,6 +1017,8 @@ h1 {
 
 ## Utilize CSS techniques
 
+---
+
 ## **Thanks For Visiting**
 
 <img src="./src/assets/logo2.png" width=130 align=right>
