@@ -52,11 +52,9 @@ General
 =====
 
 
-CREATE A SIMPLE WEB PAGE
-=====
+## CREATE A SIMPLE WEB PAGE
 
-USE ELEMENTS AND ATTRIBUTES
-=====
+## USE ELEMENTS AND ATTRIBUTES
 
 ### Self-Check 1.1-1
 
@@ -793,8 +791,7 @@ h1 {
 
 </details>
 
-MARKUP A SIMPLE WEB
-=====
+## MARKUP A SIMPLE WEB
 
 ### Self-Check 1.2-1
 
@@ -943,9 +940,7 @@ MARKUP A SIMPLE WEB
 </details>
 
 
-ADD LINKS
-=====
-
+## ADD LINKS
 
 ### Self-Check 1.3-1
 
@@ -958,8 +953,7 @@ ADD LINKS
      
 </details>
 
-ADD IMAGES TO WEB PAGE
-=====
+## ADD IMAGES TO WEB PAGE
 
 ### Self-Check 1.4-1
 
@@ -999,29 +993,29 @@ ADD IMAGES TO WEB PAGE
      
 </details>
 
-CREATE FORMS
-=====
-USE CASCADING STYLE SHEETS
-=====
-Create document structures
-=====
-Format Text
-=====
-Apply colors and backgrounds
-=====
-Apply padding, borders and margin
-=====
-Implement floating element
-=====
-Apply positioning effectively
-=====
-APPLY CASCADING STYLE SHEET TECHNIQUES
-=====
-Apply page layout with CSS
-=====
-Implement transitions, transforms and animation
-=====
-Utilize CSS techniques
-=====
+## CREATE FORMS
+
+## USE CASCADING STYLE SHEETS
+
+## Create document structures
+
+## Format Text
+
+## Apply colors and backgrounds
+
+## Apply padding, borders, and margin
+
+## Implement floating element
+
+## Apply to positioning effectively
+
+## APPLY CASCADING STYLE SHEET TECHNIQUES
+
+## Apply page layout with CSS
+
+## Implement transitions, transforms and animation
+
+## Utilize CSS techniques
+
 
 
