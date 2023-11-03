@@ -1037,31 +1037,31 @@ ADD IMAGES TO WEB PAGE
 
 **Assessment Criteria**
 
- *Utilize appropriate image attributes
- *Images are added to web page
- *Use appropriate image format for web page
- *Select appropriate image size and resolution for web page
+ * Utilize appropriate image attributes
+ * Images are added to web page
+ * Use appropriate image format for web page
+ * Select appropriate image size and resolution for web page
 
 **Conditions**
 
 The students/trainees must be provided with the following:
 
- *Computer unit with internet connection
- *Text editor
- *CBLM
- *Task/Job/Operation sheet
+ * Computer unit with internet connection
+ * Text editor
+ * CBLM
+ * Task/Job/Operation sheet
 
 **Methodologies:**
 
- *Self-paced instruction
- *Demonstration
- *Group Discussion
+ * Self-paced instruction
+ * Demonstration
+ * Group Discussion
 
 **Assessment Method:**
 
- *Hands-on
- *Self Check
- *Practical demonstration
+* Hands-on
+* Self Check
+* Practical demonstration
 
 ### Self-Check 1.4-1
 
