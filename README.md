@@ -29,7 +29,8 @@
   * [SELF-CHECK 1.2-2](#self-check-22-2)
   * [SELF-CHECK 1.2-1](#task-sheet-22-1)
   * [Performance Test](#performance-test)
-* [~~ADD LINKS~~](#add-links)
+* [ADD LINKS](#add-links)
+  * [Self-Check 1.3-1](#self-check-1-33-1)
 * [~~ADD IMAGES TO WEB PAGE~~](#add-images-to-web-page)
 * [~~CREATE FORMS~~](#create-forms)
 * [~~USE CASCADING STYLE SHEET~~](#use-casecading-style-sheet)
@@ -1016,6 +1017,19 @@ The students/trainees must be provided with the following:
 
 ADD LINKS
 =====
+
+### Self-Check 1.3-1
+
+<details>
+<summary>View</summary>
+  
+    Question 1
+
+ <img alt="Question 1" src="ADD LINKS/Self-Check 1.3-1/Question 1.png">
+     
+</details>
+
+
 ADD IMAGES TO WEB PAGE
 =====
 CREATE FORMS
