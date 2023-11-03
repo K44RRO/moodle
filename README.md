@@ -10,7 +10,6 @@
 <h1> Table of Contents </h1>
 
 * [General](#general)
-  * [Pre-Test](#pre-test)
 * [CREATE A SIMPLE WEB PAGE](#create-a-simple-web-page)
 * [USE ELEMENTS AND ATTRIBUTES](#use-elements-and-attributes)
   * [SELF-CHECK 1.1-1](#self-check-11-1)
