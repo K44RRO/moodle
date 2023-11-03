@@ -1020,6 +1020,37 @@ The students/trainees must be provided with the following:
 ADD LINKS
 =====
 
+**Assessment Criteria**
+
+  * Link between pages is established 
+  * Relative links are made
+  * “Mail to” and “Tel” links are applied
+  * Target a new browser window
+
+**Conditions**
+
+The students/trainees must be provided with the following:
+
+  * Computer unit with internet connection
+  * Text editor
+  * CBLM
+  * Task/Job/Operation sheet
+
+**Methodologies:**
+
+  * Self-paced instruction
+  * Demonstration
+  * Group Discussion
+ 
+ **Assessment Method:**
+
+  * Hands-on
+  * Self Check
+  * Practical demonstration
+
+
+
+
 ### Self-Check 1.3-1
 
 <details>
