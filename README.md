@@ -1020,7 +1020,7 @@ h1 {
 
 ## **Thanks For Visiting**
 
-<img src="./src/assets/logo2.png" width=130 align=right>
+<img src="https://i.gifer.com/origin/85/85a25f50ae5f4939336831d0b902e822_w200.gif" width=130 align=right>
 
 Hope you liked it. Want to help?
 
