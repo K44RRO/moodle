@@ -1025,6 +1025,6 @@ h1 {
 
 Hope you liked it. Want to help?
 
-- **[Star This Repository](https://github.com/akionii/Miruro)**
+- **[Star This Repository](https://github.com/clydebustamante/moodle)**
 
 
