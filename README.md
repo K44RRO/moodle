@@ -33,6 +33,7 @@
   * [SELF-CHECK 1.3-1](#self-check-1-33-1)
 * [ADD IMAGES TO WEB PAGE](#add-images-to-web-page)
   * [SELF-CHECK 1.4-1](#self-check-1-44-1)
+  * [SELF-CHECK 1.4-2](#self-check-1-44-2)
 * [~~CREATE FORMS~~](#create-forms)
 * [~~USE CASCADING STYLE SHEET~~](#use-casecading-style-sheet)
 * [~~Create document structures~~](#create-document-structures)
@@ -1068,7 +1069,7 @@ ADD IMAGES TO WEB PAGE
 
     Question 3
 
- <img alt="Question 3" src="ADD IMAGES TO WEB PAGE/Self-Check 1.4-2/Question 1.png">
+ <img alt="Question 3" src="ADD IMAGES TO WEB PAGE/Self-Check 1.4-2/Question 3.png">
      
 </details>
 
