@@ -47,9 +47,7 @@
 * [~~Utilize CSS techniques~~](#utilize-css-techniques)
 
 
-General
-=====
-
+##General
 
 ## CREATE A SIMPLE WEB PAGE
 
@@ -1025,5 +1023,126 @@ h1 {
 Hope you liked it. Want to help?
 
 - **[Star This Repository](https://github.com/clydebustamante/moodle)**
+
+
+
+# Your README Title
+
+## Table of Contents
+
+* [General](#general)
+* [CREATE A SIMPLE WEB PAGE](#create-a-simple-web-page)
+* [USE ELEMENTS AND ATTRIBUTES](#use-elements-and-attributes)
+  * [SELF-CHECK 1.1-1](#self-check-11-1)
+  * [SELF-CHECK 1.1-2](#self-check-11-2)
+  * [SELF-CHECK 1.1-3](#self-check-11-3)
+  * [Task Sheet 1.1-1](#task-sheet-11-1)
+  * [SELF-CHECK 1.1-5](#self-check-11-5)
+  * [SELF-CHECK 1.1-2](#self-check-11-2)
+  * [Collaboration I](#collaboration-i)
+  * [Task Sheet 1.1-2](#task-sheet-11-2)
+  * [Task Sheet 1.1-3](#task-sheet-11-3)
+  * [SVG Project](#svg-project)
+  * [Collaboration II](#collaboration-ii)
+* [MARKUP A SIMPLE WEB](#markup-a-simple-web)
+  * [SELF-CHECK 1.2-1](#self-check-12-1)
+  * [SELF-CHECK 1.2-2](#self-check-12-2)
+  * [Task Sheet 1.2-1](#task-sheet-12-1)
+  * [Performance Test](#performance-test)
+* [ADD LINKS](#add-links)
+  * [SELF-CHECK 1.3-1](#self-check-13-1)
+* [ADD IMAGES TO WEB PAGE](#add-images-to-web-page)
+  * [SELF-CHECK 1.4-1](#self-check-14-1)
+  * [SELF-CHECK 1.4-2](#self-check-14-2)
+
+---
+
+## General
+
+This is the general section of your README. You can provide an overview or introduction to your project here.
+
+---
+
+## CREATE A SIMPLE WEB PAGE
+
+In this section, you can provide information on how to create a simple web page.
+
+---
+
+## USE ELEMENTS AND ATTRIBUTES
+
+### SELF-CHECK 1.1-1
+
+Add content here for SELF-CHECK 1.1-1.
+
+### SELF-CHECK 1.1-2
+
+Add content here for SELF-CHECK 1.1-2.
+
+### SELF-CHECK 1.1-3
+
+Add content here for SELF-CHECK 1.1-3.
+
+### Task Sheet 1.1-1
+
+Add content here for Task Sheet 1.1-1.
+
+### SELF-CHECK 1.1-5
+
+Add content here for SELF-CHECK 1.1-5.
+
+### SELF-CHECK 1.1-2
+
+Add content here for SELF-CHECK 1.1-2.
+
+### Collaboration I
+
+Content for Collaboration I.
+
+### Task Sheet 1.1-2
+
+Content for Task Sheet 1.1-2.
+
+### Task Sheet 1.1-3
+
+Content for Task Sheet 1.1-3.
+
+### SVG Project
+
+Content for SVG Project.
+
+### Collaboration II
+
+Content for Collaboration II.
+
+---
+
+## MARKUP A SIMPLE WEB
+
+In this section, you can provide information on how to markup a simple web page.
+
+---
+
+## ADD LINKS
+
+This section covers how to add links to your web page.
+
+### SELF-CHECK 1.3-1
+
+Content for SELF-CHECK 1.3-1.
+
+---
+
+## ADD IMAGES TO WEB PAGE
+
+In this section, you can provide information on how to add images to your web page.
+
+### SELF-CHECK 1.4-1
+
+Content for SELF-CHECK 1.4-1.
+
+### SELF-CHECK 1.4-2
+
+Content for SELF-CHECK 1.4-2.
 
 
