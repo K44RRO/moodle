@@ -26,7 +26,7 @@
 * [MARKUP A SIMPLE WEB](#markup-a-simple-web)
   * [SELF-CHECK 1.2-1](#self-check-12-1)
   * [SELF-CHECK 1.2-2](#self-check-12-2)
-  * [SELF-CHECK 1.2-1](#task-sheet-12-1)
+  * [Task Sheet 1.2-1](#task-sheet-12-1)
   * [Performance Test](#performance-test)
 * [ADD LINKS](#add-links)
   * [SELF-CHECK 1.3-1](#self-check-13-1)
