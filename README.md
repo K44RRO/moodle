@@ -47,7 +47,7 @@
 * [~~Utilize CSS techniques~~](#utilize-css-techniques)
 
 
-##General
+## :loudspeaker: General
 
 ## :loudspeaker: CREATE A SIMPLE WEB PAGE
 
