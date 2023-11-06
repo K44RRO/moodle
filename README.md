@@ -47,11 +47,11 @@
 * [~~Utilize CSS techniques~~](#utilize-css-techniques)
 
 
-## :loudspeaker: General
+## General
 
-## :loudspeaker: CREATE A SIMPLE WEB PAGE
+## CREATE A SIMPLE WEB PAGE
 
-## :loudspeaker: USE ELEMENTS AND ATTRIBUTES
+## USE ELEMENTS AND ATTRIBUTES
 
 ### Self-Check 1.1-1
 
@@ -788,7 +788,7 @@ h1 {
 
 </details>
 
-## :loudspeaker: MARKUP A SIMPLE WEB
+## MARKUP A SIMPLE WEB
 
 ### Self-Check 1.2-1
 
@@ -937,7 +937,7 @@ h1 {
 </details>
 
 
-## :loudspeaker: ADD LINKS
+## ADD LINKS
 
 ### Self-Check 1.3-1
 
@@ -950,7 +950,7 @@ h1 {
      
 </details>
 
-## :loudspeaker: ADD IMAGES TO WEB PAGE
+## ADD IMAGES TO WEB PAGE
 
 ### Self-Check 1.4-1
 
@@ -990,29 +990,29 @@ h1 {
      
 </details>
 
-## :loudspeaker: CREATE FORMS
+## CREATE FORMS
 
-## :loudspeaker: USE CASCADING STYLE SHEETS
+## USE CASCADING STYLE SHEETS
 
-## :loudspeaker: Create document structures
+## Create document structures
 
-## :loudspeaker: Format Text
+## Format Text
 
-## :loudspeaker: Apply colors and backgrounds
+## Apply colors and backgrounds
 
-## :loudspeaker: Apply padding, borders, and margin
+## Apply padding, borders, and margin
 
-## :loudspeaker: Implement floating element
+## Implement floating element
 
-## :loudspeaker: Apply to positioning effectively
+## Apply to positioning effectively
 
-## :loudspeaker: APPLY CASCADING STYLE SHEET TECHNIQUES
+## APPLY CASCADING STYLE SHEET TECHNIQUES
 
-## :loudspeaker: Apply page layout with CSS
+## Apply page layout with CSS
 
-## :loudspeaker: Implement transitions, transforms and animation
+## Implement transitions, transforms and animation
 
-## :loudspeaker: Utilize CSS techniques
+## Utilize CSS techniques
 
 ---
 
